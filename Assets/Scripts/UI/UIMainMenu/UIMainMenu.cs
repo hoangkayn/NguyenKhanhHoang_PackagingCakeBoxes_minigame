@@ -33,6 +33,6 @@ public class UIMainMenu : BaseMonoBehaviour
     }
     protected virtual void Start()
     {
-        PlayerPrefs.DeleteAll();    
+       // PlayerPrefs.DeleteAll();    
     }
 }
